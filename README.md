@@ -4,6 +4,8 @@
     alt="Typing animation"
   />
 </h1>
+<noscript>Hey 👋 I'm Sourav Jha</noscript>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=120&section=header"/>
@@ -96,14 +98,15 @@
 ---
 
 ---
-## 🐍 Snake Contribution
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
+  <img alt="snake animation"
+       src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
 </picture>
 
 ---
