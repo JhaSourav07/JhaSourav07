@@ -92,7 +92,7 @@
 </p>
 
 ---
-
+<!--
 ---
 ## 🐍 Contribution Snake
 
@@ -104,7 +104,7 @@
   <img alt="snake animation"
        src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
 </picture>
-
+-->
 ---
 
 ## 🟡 Pacman Contribution Graph
