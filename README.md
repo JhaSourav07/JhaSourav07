@@ -1,9 +1,10 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Sourav+Jha;Full+Stack+Developer;Flutter+%7C+React+%7C+Node.js;Always+Learning+🚀"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Hey+👋+I'm+Sourav+Jha;Flutter+%7C+React+%7C+Node.js;Always+Learning+🚀"
+    alt="Typing animation"
   />
 </h1>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=120&section=header"/>
 
@@ -95,15 +96,14 @@
 ---
 
 ---
-## 🐍 Contribution Snake
+## 🐍 Snake Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
-  <img alt="snake contribution animation"
-       src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
+    srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
 </picture>
 
 ---
