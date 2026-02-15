@@ -111,9 +111,13 @@
 
 ---
 
-## 🟡 Contribution Animation
+## 🟡 Pacman Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/outpu
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph.svg">
+</picture>
