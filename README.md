@@ -80,7 +80,7 @@
   <!-- <img height="160"
        src="https://github-readme-stats.vercel.app/api?username=JhaSourav07&show_icons=true&theme=tokyonight&hide_border=true"/> -->
   <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com?user=JhaSourav07&theme=tokyonight&hide_border=true"/>
+       src="[https://github-readme-streak-stats.herokuapp.com?user=JhaSourav07&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true)"/>
 </p>
 
 ---
