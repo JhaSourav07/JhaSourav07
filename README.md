@@ -80,7 +80,7 @@
   <!-- <img height="160"
        src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
 <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </p>
 
 ---
@@ -92,8 +92,8 @@
 </p>
 
 ---
-<!--
----
+
+
 ## 🐍 Contribution Snake
 
 <picture>
@@ -104,9 +104,9 @@
   <img alt="snake animation"
        src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
 </picture>
--->
----
 
+---
+<!--
 ## 🟡 Pacman Contribution Graph
 
 <picture>
@@ -117,3 +117,4 @@
   <img alt="pacman contribution graph"
        src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph.svg">
 </picture>
+-->
