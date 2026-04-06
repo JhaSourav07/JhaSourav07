@@ -80,7 +80,7 @@
   <!-- <img height="160"
        src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
 <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true&cache_seconds=1"/>
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
