@@ -94,19 +94,18 @@
 ---
 
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
   <img alt="snake animation"
        src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/snake.svg">
-</picture>
+</picture> -->
 
----
-<!--
+
 ## 🟡 Pacman Contribution Graph
 
 <picture>
@@ -117,4 +116,5 @@
   <img alt="pacman contribution graph"
        src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph.svg">
 </picture>
--->
+
+---
