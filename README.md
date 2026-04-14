@@ -79,8 +79,8 @@
 <p align="center">
   <!-- <img height="160"
        src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
-<img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/>
+<img
+       src="https://commitpulse.vercel.app/api/streak?user=jhasourav07&bg=0d1117&accent=a855f7"/>
 </p>
 
 ---
