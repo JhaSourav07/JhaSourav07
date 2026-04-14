@@ -4,11 +4,6 @@
 <!-- <noscript>Hey 👋 I'm Sourav Jha</noscript> -->
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=120&section=header"/>
-
----
-
 ## 👨‍💻 About Me
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*
