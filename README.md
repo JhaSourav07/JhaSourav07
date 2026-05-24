@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="./typing.svg" alt="Typing animation" />
 </h1>
-<!-- <noscript>Hey 👋 I'm Sourav Jha</noscript> -->
+<!-- <noscript>Hey 👋 I'm Sourav Jha</noscript>
 
 
 ## 👨‍💻 About Me
@@ -18,7 +18,7 @@
 </p>
 
 ---
-
+<!---
 ## 🧩 Tech Stack
 
 ### 🎨 Frontend
@@ -49,7 +49,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ---
-
+-->
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -86,6 +86,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhaSourav07&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+  <!-- <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JhaSourav07&theme=tokyonight&hide_border=true"/> -->
+<img
+       src="https://commitpulse.vercel.app/api/streak?user=jhasourav07&view=monthly&theme=github"/>
+</p>
+
 ---
 
 
@@ -112,4 +119,4 @@
        src="https://raw.githubusercontent.com/JhaSourav07/JhaSourav07/output/pacman-contribution-graph.svg">
 </picture>
 
----
+--- -->
